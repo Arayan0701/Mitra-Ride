@@ -104,6 +104,6 @@ RK University, Rajkot
 
 ### 🚗 Mitra Ride
 
-**CIE-II Academic Project**
+**Academic Project**
 
 </div>
