@@ -1,29 +1,33 @@
-MITRA RIDE — ASP.NET CORE MVC PROJECT
+# 🚗 Mitra Ride
 
-REQUIREMENT:
-- Windows
-- .NET 8 SDK (or Visual Studio 2022 with ASP.NET and web development workload)
+## 📌 Project Overview
 
-RUN:
-1. Extract ZIP.
-2. Open the folder in Visual Studio 2022.
-3. Open MitraRide.csproj.
-4. Press F5 / Ctrl+F5.
-5. Browser opens automatically.
+**Mitra Ride** is a web-based vehicle management and emergency assistance platform designed to provide a centralized solution for managing vehicle-related information and emergency services.
 
-LOGIN:
-User: user / user123
-Admin: admin / admin123
+The system provides separate access for **Users** and **Administrators**. Users can manage their vehicles, documents, emergency contacts and assistance requests, while administrators can manage users and system-wide records.
 
-DATABASE:
-SQLite database file 'mitraride.db' is automatically created on first run.
-No SQL Server installation is required for this ready-to-run academic version.
+## ✨ Key Features
 
-USER:
-Own vehicles, documents, emergency contacts and alerts.
+- 🔐 Separate User & Admin Authentication
+- 📊 User & Admin Dashboards
+- 🚗 Vehicle Information Management
+- 📄 Vehicle Document Management
+- 📞 Emergency Contact Management
+- 🅿️ Parking Assistance
+- 🚨 Accident Emergency & Alert Management
+- 🔔 Notification Management
+- 👥 User Management
+- ⚙️ Admin CRUD Operations
+- 📱 Responsive & User-Friendly Interface
 
-ADMIN:
-Admin dashboard, all vehicles/documents/contacts/alerts and user management.
+## 💻 Technologies & Languages
 
-NOTE:
-This is a complete academic prototype with server-side ASP.NET Core MVC routing, C#, Entity Framework Core and SQLite. Passwords are demo plaintext credentials for simplicity; production systems should use ASP.NET Core Identity/password hashing.
+| Category | Technology |
+|----------|------------|
+| Programming Language | C# |
+| Framework | ASP.NET Core MVC |
+| Platform | .NET 8 |
+| Frontend | HTML5, CSS3 |
+| ORM | Entity Framework Core |
+| Database | SQLite |
+| Version Control | Git & GitHub |
