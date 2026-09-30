@@ -2,7 +2,7 @@
 
 # 🚗 Mitra Ride
 
-### QR-Based Vehicle Communication, Emergency Support & Roadside Assistance Platform
+### Vehicle Communication, Emergency Support , Documents Mangement & Vehicle Mangement  
 
 <p>
   <img src="https://img.shields.io/badge/C%23-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
